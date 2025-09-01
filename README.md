@@ -7,7 +7,8 @@
 
 ## 🚀 Sobre mí
 - 🔹 Apasionado por crear **sitios web elegantes, responsivos y funcionales**.  
-- 🔹 Experiencia con **Angular,React TypeScript, JavaScript, HTML5, CSS3 y PHP**.  
+- 🔹 Experiencia en Front-end **Angular,React TypeScript, JavaScript,Bootstrap,Tailwind**.
+- 🔹 Experiencia en Back-end **Node.js,Express.js,MySQL,MongoDB,PHP**. 
 - 🔹 Actualmente profundizando en **React 19 y desarrollo Front-End**.  
 - 🔹 He trabajado en **tiendas online, páginas web empresariales y para freelancers**.  
 
@@ -15,7 +16,7 @@
 
 ## 🛠️ Tecnologías y herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,express,mysql,php,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,express,mysql,mongodb,php,git,github,vscode" />
 </p>
 
 ---

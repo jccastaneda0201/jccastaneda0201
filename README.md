@@ -39,9 +39,9 @@
 
 ## 🌍 Conéctate conmigo
 <p align="center">
-  <a href="https://linkedin.com/in/tuusuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://tu-dominio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4da6e7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jccastanedadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://jcastanedadev.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4da6e7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:jcastanedadev@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---

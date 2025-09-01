@@ -1,21 +1,21 @@
 # 👋 Hola, soy Juan Carlos Castañeda  
 
-💻 **Desarrollador Web Frontend** | 🌐 **Creador de interfaces modernas**  
+💻 **Desarrollador Web Full Stack** | 🌐 **Creador de interfaces modernas**  
 📍 España | 🚀 Nombre corporativo: **jcastanedadev**  
 
 ---
 
 ## 🚀 Sobre mí
 - 🔹 Apasionado por crear **sitios web elegantes, responsivos y funcionales**.  
-- 🔹 Experiencia con **Angular, TypeScript, JavaScript, HTML5, CSS3 y PHP**.  
-- 🔹 Actualmente profundizando en **Angular 18 y desarrollo fullstack**.  
+- 🔹 Experiencia con **Angular,React TypeScript, JavaScript, HTML5, CSS3 y PHP**.  
+- 🔹 Actualmente profundizando en **React 19 y desarrollo Front-End**.  
 - 🔹 He trabajado en **tiendas online, páginas web empresariales y para freelancers**.  
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,express,mysql,php,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,express,mysql,php,git,github,vscode" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ## 📂 Proyectos destacados
 - 🌐 [Portafolio Personal](https://jcastanedadev.com)  
 - 🛒 Tienda online con carrito y pasarela de pagos  
-- 🏢 Página web corporativa moderna con Angular  
+- 🏢 Página web corporativa moderna con Angular y React 
 - 📱 Landing Pages creativas y responsivas  
 
 ---

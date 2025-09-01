@@ -22,7 +22,7 @@
 ---
 
 ## 📂 Proyectos destacados
-- 🌐 [Portafolio Personal](https://jcastanedadev.com)  
+- 🌐 [Portafolio jcastanedadev.com](https://jcastanedadev.com)  
 - 🛒 Tienda online con carrito y pasarela de pagos  
 - 🏢 Página web corporativa moderna con Angular y React 
 - 📱 Landing Pages creativas y responsivas  
